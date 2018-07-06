@@ -1,0 +1,78 @@
+body {
+    background-color: #e9ecef;
+}
+
+h1 {
+    color: #314159;
+}
+h3 {
+    color: #454545;
+}
+a {
+    font-weight: bold;
+}
+
+.submitbutton {
+    background: none;
+    font-weight: bold !important;
+    border: 3px solid #1d2124;
+    padding: 10px 15px;
+    -webkit-transition: all 0.5s ease-in-out 0s;
+    transition: all 0.5s ease-in-out 0s;
+    float: right;
+}
+.submitbutton:hover {
+    cursor: pointer;
+    color: #FFF;
+    box-shadow: inset 100px 0 0 0 #333;
+}
+.closeButton {
+    background: none;
+    font-weight: bold !important;
+    border: 4px solid #076E4E;
+    padding: 10px 15px;
+    -webkit-transition: all 0.5s ease-in-out 0s;
+    transition: all 0.5s ease-in-out 0s;
+    float: right;
+}
+.closeButton:hover {
+    cursor: pointer;
+    color: #FFF;
+    background: #076E4E;
+}
+span {
+    color: #721c24;
+}
+.addButton {
+    /*border: none !important;*/
+    background: none;
+    font-weight: bold !important;
+    border: 3px solid #1d2124;
+    padding: 10px 15px;
+    -webkit-transition: all 0.5s ease-in-out 0s;
+    transition: all 0.5s ease-in-out 0s;
+    float: right;
+}
+.addButton:hover {
+    cursor: pointer;
+    color: #FFF;
+    box-shadow: inset 170px 0 0 0 #333;
+}
+.edit {
+    color: #2562cc;
+    cursor: pointer;
+    font-size: 22px;
+}
+.edit:hover {
+    color: #5081d6;
+}
+.delete {
+    color: #cc4625;
+    cursor: pointer;
+    font-size: 22px;
+}
+.delete:hover {
+    color: #d66a50;
+}
+
+
