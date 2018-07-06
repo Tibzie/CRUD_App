@@ -21,7 +21,7 @@ Used technologies
 - Jave 8
 - MySQL Workbench
 - IntelliJ (IDE)
-- and few of Maven dependencies :)
+- and few Maven dependencies :)
 
 
 ---
